@@ -94,7 +94,7 @@ A multi-task NLP system for **explicit toxicity** and **implicit hate speech**, 
 
 | Role | Organisation | When | What I did |
 |---|---|---|---|
-| 🔬 **AI Research Intern** | CARA, RV University | Jun 2026 – present | Multi-task toxicity and hate-speech detection, benchmarking, explainability |
+| 🔬 **AI Research Intern** | CARA, RV University | Jun 2026 – Aug 2026 | Multi-task toxicity and hate-speech detection, benchmarking, explainability |
 | 💻 **Software Development Intern** | Zaire Technologies | Jun 2026 – Aug 2026 | Admin control-panel modules, database operations and a responsive UI on a LAMP stack (PHP, MariaDB, MySQL) |
 | 🌐 Frontend Web Development Intern | Edunet Foundation | Aug 2025 – Sep 2025 | Remote |
 | ☁️ AI & Cloud Computing Intern | Edunet Foundation | Jul 2025 – Aug 2025 | Remote |
