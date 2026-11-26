@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/varshashivanandk">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2400&pause=700&color=F472B6&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Varsha+Shivanand+K+%F0%9F%91%8B;B.Tech+CSE+(AI+%26+ML)+%40+RV+University+%2B+BS+Data+Science+%40+IIT+Madras;AI+Research+Intern+%40+CARA%2C+RV+University;IEEE+ICSSIT+2026+paper+on+RAG-based+AI;Building+%E2%80%A2+Researching+%E2%80%A2+Shipping" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2400&pause=700&color=F472B6&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Varsha+Shivanand+K;B.Tech+CSE+(AI+%26+ML)+%40+RV+University+%2B+BS+Data+Science+%40+IIT+Madras;AI+Research+Intern+%40+CARA%2C+RV+University;IEEE+ICSSIT+2026+paper+on+RAG-based+AI;Building+%E2%80%A2+Researching+%E2%80%A2+Shipping" alt="Typing intro"/>
   </a>
 </p>
 
@@ -18,24 +18,24 @@
 
 ---
 
-## 🌸 About Me
+## About Me
 
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=varshashivanandk&show_icons=true&theme=radical&hide_border=true&hide_title=true&cache_seconds=1800" alt="stats"/>
 
 I'm a curious builder who likes making things that look good **and** work well. My work ranges from research on harmful-content detection to RAG assistants, full-stack platforms and Android apps.
 
-- 🎓 **B.Tech (Hons.) in CSE** at RV University, Bengaluru *(2028)* · **CGPA 9.59**
+- **B.Tech (Hons.) in CSE** at RV University, Bengaluru *(2028)* · **CGPA 9.59**
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;Major: AI & ML · Minor: Financial Economics
-- 📊 **BS in Data Science & Applications** at IIT Madras *(2028)* · **CGPA 8.50**
-- 🔬 **AI Research Intern** at CARA (Centre of Applied and Responsible AI), RV University
-- 📄 Research paper on **RAG-based campus assistants** accepted at **IEEE ICSSIT 2026**
-- 🏅 **Merit Scholar** at RV University (2 years) · **10th State Rank**, Karnataka 2nd PUC
+- **BS in Data Science & Applications** at IIT Madras *(2028)* · **CGPA 8.50**
+- **AI Research Intern** at CARA (Centre of Applied and Responsible AI), RV University
+- Research paper on **RAG-based campus assistants** accepted at **IEEE ICSSIT 2026**
+- **Merit Scholar** at RV University (2 years) · **10th State Rank**, Karnataka 2nd PUC
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ What I Work With
+## What I Work With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,php&perline=6" />
@@ -57,30 +57,30 @@ I'm a curious builder who likes making things that look good **and** work well. 
 
 ---
 
-## 🔬 Research & Publications
+## Research & Publications
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📄 Smart Campus Assistant Using RAG-Based AI
+### Smart Campus Assistant Using RAG-Based AI
 A RAG framework over institutional documents and structured datasets that gives students context-aware academic help. It grew out of my [RVU Chatbot](https://github.com/varshashivanandk/RVU-CHATBOT).
 
-- ✅ Accepted at **ICSSIT 2026** for **IEEE Conference Proceedings** (SR University)
-- ✅ Accepted and recommended for publication at **ICOECA 2026** (RV College of Engineering)
+- Accepted at **ICSSIT 2026** for **IEEE Conference Proceedings** (SR University)
+- Accepted and recommended for publication at **ICOECA 2026** (RV College of Engineering)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Toxic & Implicit Hate Speech Detection
+### Toxic & Implicit Hate Speech Detection
 **AI Research Intern at CARA, RV University** *(Jun 2026 – Aug 2026)*
 
 A multi-task NLP system for **explicit toxicity** and **implicit hate speech**, built with transformer encoders, BiLSTM and attention pooling.
 
-- 📈 **ROC-AUC 0.991** on explicit toxicity, averaged over 3 random seeds
-- 🚀 Beat a RoBERTa-base baseline by **~30%**, with ablation studies
-- 🧪 Trained on **160K+ samples** (Jigsaw + Implicit Hate Corpus); zero-shot tests on HateXplain and OLID
-- 🔍 **LIME** explanations at the token level
+- **ROC-AUC 0.991** on explicit toxicity, averaged over 3 random seeds
+- Beat a RoBERTa-base baseline by **~30%**, with ablation studies
+- Trained on **160K+ samples** (Jigsaw + Implicit Hate Corpus); zero-shot tests on HateXplain and OLID
+- **LIME** explanations at the token level
 
 `PyTorch` `HuggingFace` `DistilBERT` `HateBERT` `BiLSTM` `LIME`
 
@@ -90,37 +90,37 @@ A multi-task NLP system for **explicit toxicity** and **implicit hate speech**, 
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Organisation | When | What I did |
 |---|---|---|---|
-| 🔬 **AI Research Intern** | CARA, RV University | Jun 2026 – Aug 2026 | Multi-task toxicity and hate-speech detection, benchmarking, explainability |
-| 💻 **Software Development Intern** | Zaire Technologies | Jun 2026 – Aug 2026 | Admin control-panel modules, database operations and a responsive UI on a LAMP stack (PHP, MariaDB, MySQL) |
-| 🌐 Frontend Web Development Intern | Edunet Foundation | Aug 2025 – Sep 2025 | Remote |
-| ☁️ AI & Cloud Computing Intern | Edunet Foundation | Jul 2025 – Aug 2025 | Remote |
-| 🧩 Web Development Intern | VaultofCodes | Jul 2025 – Aug 2025 | Remote |
-| 🛠️ Full Stack Web Development Intern | Soft Nexis Technology | Jul 2025 – Aug 2025 | Remote |
+| **AI Research Intern** | CARA, RV University | Jun 2026 – Aug 2026 | Multi-task toxicity and hate-speech detection, benchmarking, explainability |
+| **Software Development Intern** | Zaire Technologies | Jun 2026 – Aug 2026 | Admin control-panel modules, database operations and a responsive UI on a LAMP stack (PHP, MariaDB, MySQL) |
+| Frontend Web Development Intern | Edunet Foundation | Aug 2025 – Sep 2025 | Remote |
+| AI & Cloud Computing Intern | Edunet Foundation | Jul 2025 – Aug 2025 | Remote |
+| Web Development Intern | VaultofCodes | Jul 2025 – Aug 2025 | Remote |
+| Full Stack Web Development Intern | Soft Nexis Technology | Jul 2025 – Aug 2025 | Remote |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [AI Knowledge Retrieval Platform](https://github.com/varshashivanandk/voice-rag-assistant)
+### [AI Knowledge Retrieval Platform](https://github.com/varshashivanandk/voice-rag-assistant)
 **Multi-agent RAG system**: upload PDF/DOCX/TXT/CSV files, then ask questions. A query-understanding agent routes each question, a retrieval agent ranks chunks from ChromaDB, and a response agent writes grounded answers with sources and a confidence score.
-<br/>📈 **96.9% top-1 retrieval** · **100% query classification** · 23 automated tests
+<br/>**96.9% top-1 retrieval** · **100% query classification** · 23 automated tests
 
 `Python` `Flask` `ChromaDB` `Groq LLM` `React + Vite` `SQLite`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [RVU Campus Chatbot](https://github.com/varshashivanandk/RVU-CHATBOT)
+### [RVU Campus Chatbot](https://github.com/varshashivanandk/RVU-CHATBOT)
 **RAG-based smart campus assistant** that answers questions about syllabus, timetables, faculty, majors and holidays, and retrieves **previous years' question papers**. It runs on RV University handbooks and 10+ CSV datasets behind a Flask web interface.
-<br/>📄 This project is the basis of my **IEEE ICSSIT 2026** paper
+<br/>This project is the basis of my **IEEE ICSSIT 2026** paper
 
 `Python` `LlamaIndex` `HuggingFace` `Flask`
 
@@ -129,7 +129,7 @@ A multi-task NLP system for **explicit toxicity** and **implicit hate speech**, 
 <tr>
 <td width="50%" valign="top">
 
-### 🎉 [CEMS.rvu – College Event Management](https://github.com/varshashivanandk/College-Event-Management-System)
+### [CEMS.rvu – College Event Management](https://github.com/varshashivanandk/College-Event-Management-System)
 Full-stack platform that replaces scattered WhatsApp groups at RV University. Events move through create → faculty approval → publish → register, with **4 role-based dashboards**. GitHub Actions builds the Docker image automatically, and **v1.0** shipped through Agile Scrum sprints.
 
 `Node.js` `Express` `MongoDB` `Docker` `GitHub Actions`
@@ -137,7 +137,7 @@ Full-stack platform that replaces scattered WhatsApp groups at RV University. Ev
 </td>
 <td width="50%" valign="top">
 
-### 🏔️ [Trekking Management Application](https://github.com/24f3001153/trekking-management-application)
+### [Trekking Management Application](https://github.com/24f3001153/trekking-management-application)
 Web platform for managing treks, with separate roles and workflows for **Admin, Trek Staff and Trekkers**. Pages are rendered on the server with Flask and Jinja2, with relational models in Flask-SQLAlchemy.
 
 `Flask` `Jinja2` `Bootstrap` `SQLite` `SQLAlchemy`
@@ -147,7 +147,7 @@ Web platform for managing treks, with separate roles and workflows for **Admin, 
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 [HabitFlow – Android Habit Tracker](https://github.com/varshashivanandk/HabitFlow-Habit-Tracking-Android-Application)
+### [HabitFlow – Android Habit Tracker](https://github.com/varshashivanandk/HabitFlow-Habit-Tracking-Android-Application)
 Habits and tasks with streaks, rest-day mode, a custom-drawn **GitHub-style heatmap**, a calendar view and 6 themes. Works **offline-first** with SQLite and syncs to the cloud through Firebase.
 
 `Java` `Material 3` `Firebase` `SQLite`
@@ -155,7 +155,7 @@ Habits and tasks with streaks, rest-day mode, a custom-drawn **GitHub-style heat
 </td>
 <td width="50%" valign="top">
 
-### ❓ [Java Quiz Application](https://github.com/varshashivanandk/Java-Quiz-Application)
+### [Java Quiz Application](https://github.com/varshashivanandk/Java-Quiz-Application)
 Command-line quiz with MCQ, MSQ and True/False questions, scoring by difficulty, negative marking and a saved high score. The design uses **OOP, a factory pattern, custom exceptions** and a **multithreaded timer and input engine**.
 
 `Java` `OOP` `Multithreading`
@@ -165,7 +165,7 @@ Command-line quiz with MCQ, MSQ and True/False questions, scoring by difficulty,
 <tr>
 <td width="50%" valign="top">
 
-### 🕵️ [Crime Records Management System](https://github.com/tharunm490/dbmsproject2)
+### [Crime Records Management System](https://github.com/tharunm490/dbmsproject2)
 Team project: a full-stack app for reporting crimes online and managing cases. It has role-based dashboards, REST APIs with full CRUD, SQL-join analytics, email notifications and a support chatbot.
 
 `Node.js` `Express` `MySQL`
@@ -173,7 +173,7 @@ Team project: a full-stack app for reporting crimes online and managing cases. I
 </td>
 <td width="50%" valign="top">
 
-### 🚦 [Lane Management System](https://github.com/varshashivanandk/noobcoders)
+### [Lane Management System](https://github.com/varshashivanandk/noobcoders)
 Team project for the **I-SOLVE 2024** hackathon: AI traffic surveillance that flags unsafe lane changes by checking **indicator flashes against hand signals**, and captures the **number plates** of violators.
 
 `Python` `OpenCV` `Haar Cascades`
@@ -182,7 +182,7 @@ Team project for the **I-SOLVE 2024** hackathon: AI traffic surveillance that fl
 </tr>
 </table>
 
-### 🧩 TaskFlow Series: from frontend to cloud database
+### TaskFlow Series: from frontend to cloud database
 
 | Stage | Repo | What it adds | Stack |
 |---|---|---|---|
@@ -190,7 +190,7 @@ Team project for the **I-SOLVE 2024** hackathon: AI traffic surveillance that fl
 | 2 | [TaskFlow API](https://github.com/varshashivanandk/TaskFlow-API) | REST backend with CRUD, security middleware (helmet, cors) and Postman tests | `Node.js` `Express` |
 | 3 | [TaskFlow DB](https://github.com/varshashivanandk/TaskFlow-DB) | Persistent storage on MongoDB Atlas with schema validation and auto-increment IDs | `MongoDB Atlas` `Mongoose` |
 
-### 👁️ Computer Vision & Data Science
+### Computer Vision & Data Science
 
 | Project | Highlights |
 |---|---|
@@ -201,7 +201,7 @@ Team project for the **I-SOLVE 2024** hackathon: AI traffic surveillance that fl
 | [Time-Series Forecasting with Prophet](https://github.com/varshashivanandk/Time-Series-Forecasting-Facebook-Prophet) | Trend and seasonality forecasting with Facebook Prophet |
 
 <details>
-<summary><b>🌐 More web projects</b></summary>
+<summary><b>More web projects</b></summary>
 <br/>
 
 - [Portfolio Website](https://github.com/varshashivanandk/Varsha-Shivanand-K-Portfolio): multi-page responsive portfolio with certificates and resume ([React version](https://github.com/varshashivanandk/VOC-FA))
@@ -211,20 +211,20 @@ Team project for the **I-SOLVE 2024** hackathon: AI traffic surveillance that fl
 
 ---
 
-## 🏆 Hackathons & Awards
+## Hackathons & Awards
 
-| | Event | Outcome |
-|---|---|---|
-| 🥉 | **IoT Day Exhibition** | **3rd place** among 140+ B.Tech teams |
-| 🇮🇳 | **Smart India Hackathon 2026** | Shortlisted in RV University's internal round. Built **CryptoTrace**, a blockchain forensics platform that traces crypto transactions across hops, attributes wallets to exchanges, detects laundering patterns and flags OFAC-sanctioned addresses (Flask, NetworkX, React/D3) |
-| 💸 | **RIFT Hackathon 2026**, PW Institute of Innovation | Reached round 2 with an ML system that detects money-muling patterns in transaction records |
-| 🚦 | **I-SOLVE Hackathon 2024**, NMIT | Shortlisted for the offline round with an AI [lane management](https://github.com/varshashivanandk/noobcoders) solution |
-| 🎓 | **Merit Scholarship**, RV University | Awarded two years in a row |
-| 🏅 | **Karnataka 2nd PUC** | **10th State Rank** |
+| Event | Outcome |
+|---|---|
+| **IoT Day Exhibition** | **3rd place** among 140+ B.Tech teams |
+| **Smart India Hackathon 2026** | Shortlisted in RV University's internal round. Built **CryptoTrace**, a blockchain forensics platform that traces crypto transactions across hops, attributes wallets to exchanges, detects laundering patterns and flags OFAC-sanctioned addresses (Flask, NetworkX, React/D3) |
+| **RIFT Hackathon 2026**, PW Institute of Innovation | Reached round 2 with an ML system that detects money-muling patterns in transaction records |
+| **I-SOLVE Hackathon 2024**, NMIT | Shortlisted for the offline round with an AI [lane management](https://github.com/varshashivanandk/noobcoders) solution |
+| **Merit Scholarship**, RV University | Awarded two years in a row |
+| **Karnataka 2nd PUC** | **10th State Rank** |
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/IIT%20Madras-MLT%20Workshop%20%E2%80%A2%20OPPE%20Topper-8B0000?style=flat-square&logoColor=white"/>
@@ -244,7 +244,7 @@ Team project for the **I-SOLVE 2024** hackathon: AI traffic surveillance that fl
 
 ---
 
-## 🎯 Right Now
+## Right Now
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=C084FC&center=true&vCenter=true&width=800&lines=Explainable+hate-speech+detection+%E2%80%A2+HateBERT+%2B+BiLSTM;Multi-agent+RAG+%E2%80%A2+Grounded+answers+with+sources;3D+Vision+%E2%80%A2+Shape+recovery+%E2%80%A2+Reconstruction;Sharpening+DSA+%2B+DBMS+%2B+OS" alt="Current focus"/>
@@ -252,7 +252,7 @@ Team project for the **I-SOLVE 2024** hackathon: AI traffic surveillance that fl
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshashivanandk&layout=donut&langs_count=6&theme=radical&hide_border=true&cache_seconds=1800" alt="Top languages"/>
@@ -269,10 +269,10 @@ Team project for the **I-SOLVE 2024** hackathon: AI traffic surveillance that fl
 
 ---
 
-## 💌 Let's Connect
+## Let's Connect
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=2200&pause=600&color=F472B6&center=true&vCenter=true&width=700&lines=Open+to+SDE+%26+AI%2FML+internships;Happy+to+talk+research%2C+RAG+%26+NLP+%E2%9C%A8" alt="Connect"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=2200&pause=600&color=F472B6&center=true&vCenter=true&width=700&lines=Open+to+SDE+%26+AI%2FML+internships;Happy+to+talk+research%2C+RAG+%26+NLP" alt="Connect"/>
 </p>
 
 <p align="center">
