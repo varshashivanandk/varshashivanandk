@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/varshashivanandk">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2400&pause=700&color=F472B6&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Varsha+Shivanand+K;B.Tech+CSE+(AI+%26+ML)+%40+RV+University+%2B+BS+Data+Science+%40+IIT+Madras;AI+Research+Intern+%40+CARA%2C+RV+University;IEEE+ICSSIT+2026+paper+on+RAG-based+AI;Building+%E2%80%A2+Researching+%E2%80%A2+Shipping" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2400&pause=700&color=F472B6&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Varsha+Shivanand+K;B.Tech+CSE+(AI+%26+ML)+%40+RV+University+%2B+BS+Data+Science+%40+IIT+Madras;AI+Intern+%40+Infosys+Springboard;IEEE+ICSSIT+2026+paper+on+RAG-based+AI;Building+%E2%80%A2+Researching+%E2%80%A2+Deploying" alt="Typing intro"/>
   </a>
 </p>
 
@@ -27,7 +27,8 @@ I'm a curious builder who likes making things that look good **and** work well. 
 - **B.Tech (Hons.) in CSE** at RV University, Bengaluru *(2028)* · **CGPA 9.59**
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;Major: AI & ML · Minor: Financial Economics
 - **BS in Data Science & Applications** at IIT Madras *(2028)* · **CGPA 8.50**
-- **AI Research Intern** at CARA (Centre of Applied and Responsible AI), RV University
+- **AI Intern** at **Infosys Springboard** (since Oct 2026), building a multi-agent RAG platform
+- Previously **AI Research Intern** at CARA (Centre of Applied and Responsible AI), RV University
 - Research paper on **RAG-based campus assistants** accepted at **IEEE ICSSIT 2026**
 - **Merit Scholar** at RV University (2 years) · **10th State Rank**, Karnataka 2nd PUC
 
@@ -94,6 +95,7 @@ A multi-task NLP system for **explicit toxicity** and **implicit hate speech**, 
 
 | Role | Organisation | When | What I did |
 |---|---|---|---|
+| **AI Intern** | Infosys Springboard | Oct 2026 – Present | Building the [AI Knowledge Retrieval Platform](https://github.com/varshashivanandk/voice-rag-assistant): a multi-agent RAG system with document ingestion, ChromaDB retrieval and grounded answers with sources |
 | **AI Research Intern** | CARA, RV University | Jun 2026 – Aug 2026 | Multi-task toxicity and hate-speech detection, benchmarking, explainability |
 | **Software Development Intern** | Zaire Technologies | Jun 2026 – Aug 2026 | Admin control-panel modules, database operations and a responsive UI on a LAMP stack (PHP, MariaDB, MySQL) |
 | Frontend Web Development Intern | Edunet Foundation | Aug 2025 – Sep 2025 | Remote |
@@ -110,6 +112,8 @@ A multi-task NLP system for **explicit toxicity** and **implicit hate speech**, 
 <td width="50%" valign="top">
 
 ### [AI Knowledge Retrieval Platform](https://github.com/varshashivanandk/voice-rag-assistant)
+*Infosys Springboard AI Internship project (Oct 2026 – present)*
+
 **Multi-agent RAG system**: upload PDF/DOCX/TXT/CSV files, then ask questions. A query-understanding agent routes each question, a retrieval agent ranks chunks from ChromaDB, and a response agent writes grounded answers with sources and a confidence score.
 <br/>**96.9% top-1 retrieval** · **100% query classification** · 23 automated tests
 
@@ -240,14 +244,6 @@ Team project for the **I-SOLVE 2024** hackathon: AI traffic surveillance that fl
   <img src="https://img.shields.io/badge/AWS%20Summit%20India-2025%20%26%202026-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/HackerRank-SQL%20Basic%20%2B%20Intermediate-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/>
   <img src="https://img.shields.io/badge/STEP%20English-Advanced-c084fc?style=flat-square"/>
-</p>
-
----
-
-## Right Now
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2000&pause=500&color=C084FC&center=true&vCenter=true&width=800&lines=Explainable+hate-speech+detection+%E2%80%A2+HateBERT+%2B+BiLSTM;Multi-agent+RAG+%E2%80%A2+Grounded+answers+with+sources;3D+Vision+%E2%80%A2+Shape+recovery+%E2%80%A2+Reconstruction;Sharpening+DSA+%2B+DBMS+%2B+OS" alt="Current focus"/>
 </p>
 
 ---
