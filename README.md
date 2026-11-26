@@ -1,11 +1,11 @@
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6ec7,50:c084fc,100:1e1b4b&height=230&section=header&text=Varsha%20Shivanand%20K&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Research%20%E2%80%A2%20RAG%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Android&descAlignY=62&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:c084fc,100:1e1b4b&height=230&section=header&text=Varsha%20Shivanand%20K&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Research%20%E2%80%A2%20RAG%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Android&descAlignY=56&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/varshashivanandk">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2400&pause=700&color=F472B6&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Varsha+%F0%9F%91%8B;B.Tech+CSE+(AI+%26+ML)+%40+RV+University+%2B+BS+Data+Science+%40+IIT+Madras;AI+Research+Intern+%40+CARA%2C+RV+University;IEEE+ICSSIT+2026+paper+on+RAG-based+AI;Building+%E2%80%A2+Researching+%E2%80%A2+Shipping" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2400&pause=700&color=F472B6&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Varsha+Shivanand+K+%F0%9F%91%8B;B.Tech+CSE+(AI+%26+ML)+%40+RV+University+%2B+BS+Data+Science+%40+IIT+Madras;AI+Research+Intern+%40+CARA%2C+RV+University;IEEE+ICSSIT+2026+paper+on+RAG-based+AI;Building+%E2%80%A2+Researching+%E2%80%A2+Shipping" alt="Typing intro"/>
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 ## 🌸 About Me
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=varshashivanandk&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&hide_title=true&cache_seconds=1800" alt="stats"/>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=varshashivanandk&show_icons=true&theme=radical&hide_border=true&hide_title=true&cache_seconds=1800" alt="stats"/>
 
 I'm a curious builder who likes making things that look good **and** work well. My work ranges from research on harmful-content detection to RAG assistants, full-stack platforms and Android apps.
 
@@ -73,7 +73,7 @@ A RAG framework over institutional documents and structured datasets that gives 
 <td width="50%" valign="top">
 
 ### 🛡️ Toxic & Implicit Hate Speech Detection
-**AI Research Intern at CARA, RV University** *(Jun 2026 – August 2026)*
+**AI Research Intern at CARA, RV University** *(Jun 2026 – Aug 2026)*
 
 A multi-task NLP system for **explicit toxicity** and **implicit hate speech**, built with transformer encoders, BiLSTM and attention pooling.
 
@@ -278,7 +278,7 @@ Team project for the **I-SOLVE 2024** hackathon: AI traffic surveillance that fl
 <p align="center">
   <a href="https://www.linkedin.com/in/varsha-shivanand-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:varshashivanand.k@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/varshashivanandk"><img src="https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/varshashivanandk?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
