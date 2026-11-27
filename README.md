@@ -29,7 +29,7 @@ I'm a curious builder who likes making things that look good **and** work well. 
 - **BS in Data Science & Applications** at IIT Madras *(2028)* · **CGPA 8.50**
 - **AI Intern** at **Infosys Springboard** (since Oct 2026), building a multi-agent RAG platform
 - Previously **AI Research Intern** at CARA (Centre of Applied and Responsible AI), RV University
-- Research paper on **RAG-based campus assistants** accepted at **IEEE ICSSIT 2026**
+- Research paper on **RAG-Based Campus Assistants**, presented at **ICSSIT 2026, SR University**, and published in the **IEEE Xplore Digital Library**: [View Publication](https://ieeexplore.ieee.org/document/11656628)
 - **Merit Scholar** at RV University (2 years) · **10th State Rank**, Karnataka 2nd PUC
 
 <br clear="right"/>
@@ -67,7 +67,7 @@ I'm a curious builder who likes making things that look good **and** work well. 
 ### Smart Campus Assistant Using RAG-Based AI
 A RAG framework over institutional documents and structured datasets that gives students context-aware academic help. It grew out of my [RVU Chatbot](https://github.com/varshashivanandk/RVU-CHATBOT).
 
-- Accepted at **ICSSIT 2026** for **IEEE Conference Proceedings** (SR University)
+- Accepted and Presented at **ICSSIT 2026**, **SR University**; paper published in the **IEEE Xplore Digital Library**: [View Publication](https://ieeexplore.ieee.org/document/11656628)
 - Accepted and recommended for publication at **ICOECA 2026** (RV College of Engineering)
 
 </td>
